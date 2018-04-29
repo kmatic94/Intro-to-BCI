@@ -6,7 +6,9 @@ What are BCIs in theory
 - Interface part
 - Brain part
 - Computer part
+
 Example: BCIs in research of motor preparation
+
 What are BCIs in practice
 - BCIs for communication
 - BCIs for control
